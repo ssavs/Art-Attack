@@ -63,6 +63,12 @@ const routes = [
   },
 ];
 
+// beforeEnter() {
+//   if(!store.state.user) {
+//     router.push({name: 'login'});
+//   }
+// }
+
 const router = createRouter({
   history: createWebHistory(process.env.BASE_URL),
   routes,

@@ -12,8 +12,8 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: rgb(231, 137, 216);
-    color: rgb(255, 255, 255);
+    background-color:black ;
+    color: rgb(211, 84, 190);
     text-align: center;
     font-size: x-large;
   }
